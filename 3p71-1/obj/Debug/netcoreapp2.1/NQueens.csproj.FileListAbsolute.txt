@@ -1,0 +1,11 @@
+C:\Users\Kyle-\OneDrive\Programming\3P71-1\3p71-1\bin\Debug\netcoreapp2.1\NQueens.deps.json
+C:\Users\Kyle-\OneDrive\Programming\3P71-1\3p71-1\bin\Debug\netcoreapp2.1\NQueens.runtimeconfig.json
+C:\Users\Kyle-\OneDrive\Programming\3P71-1\3p71-1\bin\Debug\netcoreapp2.1\NQueens.runtimeconfig.dev.json
+C:\Users\Kyle-\OneDrive\Programming\3P71-1\3p71-1\bin\Debug\netcoreapp2.1\NQueens.dll
+C:\Users\Kyle-\OneDrive\Programming\3P71-1\3p71-1\bin\Debug\netcoreapp2.1\NQueens.pdb
+C:\Users\Kyle-\OneDrive\Programming\3P71-1\3p71-1\obj\Debug\netcoreapp2.1\NQueens.csproj.CoreCompileInputs.cache
+C:\Users\Kyle-\OneDrive\Programming\3P71-1\3p71-1\obj\Debug\netcoreapp2.1\NQueens.AssemblyInfoInputs.cache
+C:\Users\Kyle-\OneDrive\Programming\3P71-1\3p71-1\obj\Debug\netcoreapp2.1\NQueens.AssemblyInfo.cs
+C:\Users\Kyle-\OneDrive\Programming\3P71-1\3p71-1\obj\Debug\netcoreapp2.1\NQueens.dll
+C:\Users\Kyle-\OneDrive\Programming\3P71-1\3p71-1\obj\Debug\netcoreapp2.1\NQueens.pdb
+C:\Users\Kyle-\OneDrive\Programming\3P71-1\3p71-1\obj\Debug\netcoreapp2.1\NQueens.csprojAssemblyReference.cache

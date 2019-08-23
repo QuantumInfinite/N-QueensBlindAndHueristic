@@ -1,0 +1,39 @@
+Input board size >= 4. Default = 8
+
+Board size of 8 selected
+Input seed. Default = Current Time
+
+Seed of 1308406323 selected
+
+Press Enter to run blindsearch
+
+Q   -   -   -   -   -   -   -
+-   -   -   -   Q   -   -   -
+-   -   -   -   -   -   -   Q
+-   -   -   -   -   Q   -   -
+-   -   Q   -   -   -   -   -
+-   -   -   -   -   -   Q   -
+-   Q   -   -   -   -   -   -
+-   -   -   Q   -   -   -   -
+Solution found!
+Total moves: 113
+Dead Ends: 42
+Blind search compleated in: 37ms
+
+
+Press Enter to run Hueristic search
+
+-   -   -   Q   -   -   -   -
+Q   -   -   -   -   -   -   -
+-   -   -   -   Q   -   -   -
+-   -   -   -   -   -   -   Q
+-   Q   -   -   -   -   -   -
+-   -   -   -   -   -   Q   -
+-   -   Q   -   -   -   -   -
+-   -   -   -   -   Q   -   -
+
+solution found!
+Total swaps: 21
+Boards Generated: 3
+Seed: 1308406323
+Hueristic search compleated in: 55ms
