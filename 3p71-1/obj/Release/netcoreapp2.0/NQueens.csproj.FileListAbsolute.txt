@@ -1,0 +1,11 @@
+C:\Users\Rob\Documents\GitHub\N-QueensBlindAndHueristic\3p71-1\bin\Release\netcoreapp2.0\NQueens.deps.json
+C:\Users\Rob\Documents\GitHub\N-QueensBlindAndHueristic\3p71-1\bin\Release\netcoreapp2.0\NQueens.runtimeconfig.json
+C:\Users\Rob\Documents\GitHub\N-QueensBlindAndHueristic\3p71-1\bin\Release\netcoreapp2.0\NQueens.runtimeconfig.dev.json
+C:\Users\Rob\Documents\GitHub\N-QueensBlindAndHueristic\3p71-1\bin\Release\netcoreapp2.0\NQueens.dll
+C:\Users\Rob\Documents\GitHub\N-QueensBlindAndHueristic\3p71-1\bin\Release\netcoreapp2.0\NQueens.pdb
+C:\Users\Rob\Documents\GitHub\N-QueensBlindAndHueristic\3p71-1\obj\Release\netcoreapp2.0\NQueens.csprojAssemblyReference.cache
+C:\Users\Rob\Documents\GitHub\N-QueensBlindAndHueristic\3p71-1\obj\Release\netcoreapp2.0\NQueens.csproj.CoreCompileInputs.cache
+C:\Users\Rob\Documents\GitHub\N-QueensBlindAndHueristic\3p71-1\obj\Release\netcoreapp2.0\NQueens.AssemblyInfoInputs.cache
+C:\Users\Rob\Documents\GitHub\N-QueensBlindAndHueristic\3p71-1\obj\Release\netcoreapp2.0\NQueens.AssemblyInfo.cs
+C:\Users\Rob\Documents\GitHub\N-QueensBlindAndHueristic\3p71-1\obj\Release\netcoreapp2.0\NQueens.dll
+C:\Users\Rob\Documents\GitHub\N-QueensBlindAndHueristic\3p71-1\obj\Release\netcoreapp2.0\NQueens.pdb

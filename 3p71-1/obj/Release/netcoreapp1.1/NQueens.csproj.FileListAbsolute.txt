@@ -1,0 +1,4 @@
+C:\Users\Rob\Documents\GitHub\N-QueensBlindAndHueristic\3p71-1\obj\Release\netcoreapp1.1\NQueens.csprojAssemblyReference.cache
+C:\Users\Rob\Documents\GitHub\N-QueensBlindAndHueristic\3p71-1\obj\Release\netcoreapp1.1\NQueens.csproj.CoreCompileInputs.cache
+C:\Users\Rob\Documents\GitHub\N-QueensBlindAndHueristic\3p71-1\obj\Release\netcoreapp1.1\NQueens.AssemblyInfoInputs.cache
+C:\Users\Rob\Documents\GitHub\N-QueensBlindAndHueristic\3p71-1\obj\Release\netcoreapp1.1\NQueens.AssemblyInfo.cs
